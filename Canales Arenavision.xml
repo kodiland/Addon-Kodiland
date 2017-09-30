@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<item>
+<title>[COLOR lime] AGENDA [/COLOR][COLOR yellow] ARENAVISION 1 [COLOR pink]CLIC AQUI[/COLOR]</title>
+ 
+<link>$doregex[makelist]</link>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR pink] [makelist.param3] [/COLOR][COLOR orange] [makelist.param2] [makelist.param4][/COLOR] [COLOR blue][makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Kodiland</link>
+<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+-------------------------------------------------------------------------------------
+<item>
+<title>[COLOR red]ARENAVISION AGENDA 2[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR red][makelist.param1]  [/COLOR]  [COLOR yellow][makelist.param2] [/COLOR]  [COLOR yellow][makelist.param3] [/COLOR]  [COLOR red][makelist.param4] [/COLOR] [COLOR yellow][makelist.param5] [/B] [/COLOR]   [COLOR red]Canal [makelist.param6]  - [makelist.param7] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.ru/[makelist.param6]</page>
+			<referer>http://www.arenavision.ru/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://www.arenavision.ru/iguide/</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru/</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</thumbnail>
+<fanart>http://3.bp.blogspot.com/-0d10P9pIg8Y/VFpQQaEa2UI/AAAAAAAAM8U/OpHkr0oCS2M/s1600/screenshot052.png</fanart>
+</item>	
+ 
+<item>
+<title>[COLOR yellow]LISTA DE CANALES  ARENAVISION  [/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR red] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=tvchoco[makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.top/[makelist.param1]</page>
+			<referer>http://arenavision2017.top</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
+ <fanart>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
+<page></page>
+<Agent>Mozilla</Agent>
+<referer></referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
+ <fanart>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].in[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/arenavision-in.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].ru[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/arenavision-ru.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].top[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/arenavision-top.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].us[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/ARENAVISION-us.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]ARENAVISION[/COLOR] [COLOR red].cf[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/ARENAVISION-cf.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].ga[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/arenavision-ga.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].ml[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/arenavision-ml.xml</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]ARENAVISION2017[/COLOR] [COLOR red].tk[/COLOR][COLOR blue] CLIC AQUI  [/COLOR]</title>
+<thumbnail>http://www.arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/arenavision/arenavision-tk.xml</externallink>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/01</page>
+<referer>http://www.arenavision.ru/</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png</thumbnail>
+<title>ArenaVision 1</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/02</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 2</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/03</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 3</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/04</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 4</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/05</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 5</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/06</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 6</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/07</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 7</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/08</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 8</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/09</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 9</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/10</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 10</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/11</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 11</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/12</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 12</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/13</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 13</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/14</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 14</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/15</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 15</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/16</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 16</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/17</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 17</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/18</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 18</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/19</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 19</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/20</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 20</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/21</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 21</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/22</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 22</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/23</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 23</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/24</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 24</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/25</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 25</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/26</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 26</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/27</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 27</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/28</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 28</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/29</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 29</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/30</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 30</title>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/31</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+https://i2.wp.com/rojillo.es/wp-content/uploads/2017/05/warenavision.png
+<title>ArenaVision 31</title>
+</item>
