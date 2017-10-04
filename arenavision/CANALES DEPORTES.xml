@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[B][COLOR red]==========================================================================================[/COLOR][/B]</title>
+<link>http://Ignoreme</link>
+<externallink>http://main.txt</externallink>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B]ARENAVISION AGENDA / (CLICAR AQUI)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR red][makelist.param1][/COLOR] [COLOR white][makelist.param3][/COLOR] [COLOR lightgreen][makelist.param2][/COLOR][COLOR skyblue] PICAPAU[/COLOR]</title>
+<link>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=picapau+[makelist.param3]+Arenavision</link>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,120}<td>(.*?)<br>(.*?)<[\w\W\s]{0,40}acestream://(.*?)"]]></expres>
+<page>https://avezy.tk/</page>
+<Agent>Mozilla</Agent>
+</regex>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white]ARENAVISION[/COLOR] [COLOR red].in[/COLOR]</title>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/dMZdmZe5</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]ARENAVISION[/COLOR] [COLOR red].ru[/COLOR]</title>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/9bHeeUjN</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]ARENAVISION[/COLOR] [COLOR red].top[/COLOR]</title>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/wbTdQMKa</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]ARENAVISION[/COLOR] [COLOR red].us[/COLOR]</title>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/fQTHsqY5</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]ARENAVISION[/COLOR] [COLOR red].cf[/COLOR]</title>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/ynewe6Nu</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]ARENAVISION2017[/COLOR] [COLOR red].ga[/COLOR]</title>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/2ZfLByJG</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]ARENAVISION2017[/COLOR] [COLOR red].ml[/COLOR]</title>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/SskafT90</externallink>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]ARENAVISION2017[/COLOR] [COLOR red].tk[/COLOR]</title>
+<thumbnail>http://arenavision.ru/sites/default/files/logo_av2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Y8XzeU2WbDY/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/QdSMBqy1</externallink>
+</item>

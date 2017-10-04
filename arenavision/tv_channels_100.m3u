@@ -1,0 +1,1585 @@
+#EXTM3U
+#EXTINF:-1,Sky Sports Main Event HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/14376.ts
+#EXTINF:-1,Sky Sports Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/14377.ts
+#EXTINF:-1,Sky Sports Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/14378.ts
+#EXTINF:-1,Sky Sports Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/14379.ts
+#EXTINF:-1,Sky Sports PL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/14380.ts
+#EXTINF:-1,Sky Sports Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23091.ts
+#EXTINF:-1,Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16917.ts
+#EXTINF:-1,Sky Sports News Hq HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/14388.ts
+#EXTINF:-1,Sky Sports Arena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21635.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17359.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD LOCAL BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17358.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17357.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD LOCAL BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17356.ts
+#EXTINF:-1,SKY SPORTS ACTION HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17355.ts
+#EXTINF:-1,SKY SPORTS ACTION HD LOCAL BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17354.ts
+#EXTINF:-1,SKY SPORTS GOLF HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17353.ts
+#EXTINF:-1,SKY SPORTS GOLF HD LOCAL BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17352.ts
+#EXTINF:-1,SKY SPORTS PL HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17351.ts
+#EXTINF:-1,SKY SPORTS PL HD LOCAL BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17350.ts
+#EXTINF:-1,SKY SPORTS F1 HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17349.ts
+#EXTINF:-1,Sky Sports News HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13950.ts
+#EXTINF:-1,Sky Sports Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13875.ts
+#EXTINF:-1,Sky Sports Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13976.ts
+#EXTINF:-1,Sky Sports Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13942.ts
+#EXTINF:-1,Sky Sports Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13981.ts
+#EXTINF:-1,Sky Sports PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13906.ts
+#EXTINF:-1,Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13848.ts
+#EXTINF:-1,Sky Sports Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13718.ts
+#EXTINF:-1,BT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/14391.ts
+#EXTINF:-1,BT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17508.ts
+#EXTINF:-1,BT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16934.ts
+#EXTINF:-1,UK:BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13846.ts
+#EXTINF:-1,UK:BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13809.ts
+#EXTINF:-1,UK:BT Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13877.ts
+#EXTINF:-1,UK:Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13881.ts
+#EXTINF:-1,Box Nation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16943.ts
+#EXTINF:-1,Eir Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16932.ts
+#EXTINF:-1,EIR SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16931.ts
+#EXTINF:-1,EIR SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16930.ts
+#EXTINF:-1,EIR SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16929.ts
+#EXTINF:-1,MUFC TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16926.ts
+#EXTINF:-1,MUTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16925.ts
+#EXTINF:-1,PREMIER SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16924.ts
+#EXTINF:-1,Racing UK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16923.ts
+#EXTINF:-1,Sky Movies Modern Greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13766.ts
+#EXTINF:-1,Sky Movies SciFi & Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13765.ts
+#EXTINF:-1,Sky Movies Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13764.ts
+#EXTINF:-1,Sky Action Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13817.ts
+#EXTINF:-1,Sky Comedy Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13841.ts
+#EXTINF:-1,Sky Premiere Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13920.ts
+#EXTINF:-1,Sky Movies Family 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13642.ts
+#EXTINF:-1,Sky Movies Action local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13570.ts
+#EXTINF:-1,Sky Cinema Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17256.ts
+#EXTINF:-1,Sky Cinema Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17254.ts
+#EXTINF:-1,Sky Cinema Sci Fi Hor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17253.ts
+#EXTINF:-1,Sky Cinema Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17252.ts
+#EXTINF:-1,Sky Cinema Thriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17251.ts
+#EXTINF:-1,Discovery History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17659.ts
+#EXTINF:-1,Discovery Shed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17657.ts
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17668.ts
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17669.ts
+#EXTINF:-1,History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17679.ts
+#EXTINF:-1,Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17678.ts
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17662.ts
+#EXTINF:-1,Crime Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17661.ts
+#EXTINF:-1,Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17660.ts
+#EXTINF:-1,Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17652.ts
+#EXTINF:-1,Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17651.ts
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19809.ts
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19808.ts
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19807.ts
+#EXTINF:-1,*BBC News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15365.ts
+#EXTINF:-1,Movies 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13767.ts
+#EXTINF:-1,Movies4men +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13672.ts
+#EXTINF:-1,UK:MTV +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13652.ts
+#EXTINF:-1,UK:Racing UK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13737.ts
+#EXTINF:-1,UK:Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13769.ts
+#EXTINF:-1,UK:FOX News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13902.ts
+#EXTINF:-1,Movies 4 Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13988.ts
+#EXTINF:-1,UK:MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13810.ts
+#EXTINF:-1,UK:MTV BASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13973.ts
+#EXTINF:-1,UK:MTV CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13978.ts
+#EXTINF:-1,UK:MTV DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13901.ts
+#EXTINF:-1,UK:MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13847.ts
+#EXTINF:-1,UK:MTV ROCKS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13980.ts
+#EXTINF:-1,UK:Premier Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13955.ts
+#EXTINF:-1,UK:Racing UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13873.ts
+#EXTINF:-1,UK:RT News Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13864.ts
+#EXTINF:-1,UK:UTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13903.ts
+#EXTINF:-1,UK:UTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13808.ts
+#EXTINF:-1,UK:Eurosport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13581.ts
+#EXTINF:-1,UK:FOXNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13578.ts
+#EXTINF:-1,UK:Premier Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13582.ts
+#EXTINF:-1,UK:CNBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13587.ts
+#EXTINF:-1,UK:BBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13850.ts
+#EXTINF:-1,UK:BBC News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13849.ts
+#EXTINF:-1,UK:At The Races SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13736.ts
+#EXTINF:-1,UK:BBC 1 NI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13705.ts
+#EXTINF:-1,UK:Arise News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13597.ts
+#EXTINF:-1,PL:TVP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13614.ts
+#EXTINF:-1,PL:TVP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13613.ts
+#EXTINF:-1,PL:TV4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13612.ts
+#EXTINF:-1,UK:CGTN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13589.ts
+#EXTINF:-1,Racing UK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15122.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15118.ts
+#EXTINF:-1,Sky Sports Mix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15116.ts
+#EXTINF:-1,Sky Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15947.ts
+#EXTINF:-1,Sky Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15944.ts
+#EXTINF:-1,Sky Crime Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15943.ts
+#EXTINF:-1,Sky Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15942.ts
+#EXTINF:-1,Sky Family hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15941.ts
+#EXTINF:-1,Sky Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15937.ts
+#EXTINF:-1,Sky Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15936.ts
+#EXTINF:-1,BT SPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16679.ts
+#EXTINF:-1,BT SPORT 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16678.ts
+#EXTINF:-1,Racing UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16694.ts
+#EXTINF:-1,UK:CHANNEL 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16690.ts
+#EXTINF:-1,UK:CHANNEL 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16689.ts
+#EXTINF:-1,UK:ITV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16683.ts
+#EXTINF:-1,UK:ITV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16682.ts
+#EXTINF:-1,UK:ITV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16681.ts
+#EXTINF:-1,UK:ITV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16680.ts
+#EXTINF:-1,Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16928.ts
+#EXTINF:-1,RACING UK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16922.ts
+#EXTINF:-1,EirSport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16911.ts
+#EXTINF:-1,BT ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16910.ts
+#EXTINF:-1,PK:24 News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17181.ts
+#EXTINF:-1,Sky Movie Modern Greats HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15324.ts
+#EXTINF:-1,BT Sport ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15152.ts
+#EXTINF:-1,Eir Sport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15145.ts
+#EXTINF:-1,LITH:BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13633.ts
+#EXTINF:-1,LITH:infotv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13630.ts
+#EXTINF:-1,LITH:Lietuvos:rytas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13634.ts
+#EXTINF:-1,LITH:LIUKS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13632.ts
+#EXTINF:-1,LITH:LNK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13636.ts
+#EXTINF:-1,LITH:LRT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13637.ts
+#EXTINF:-1,LITH:TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13635.ts
+#EXTINF:-1,LITH:TV6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13631.ts
+#EXTINF:-1,LITH:TV8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13629.ts
+#EXTINF:-1,PL:Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13606.ts
+#EXTINF:-1,PL:CANAL plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13603.ts
+#EXTINF:-1,PL:Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13605.ts
+#EXTINF:-1,PL:Eleven HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13604.ts
+#EXTINF:-1,PL:Filmbox Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13607.ts
+#EXTINF:-1,PL:Polsat 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13608.ts
+#EXTINF:-1,PL:Polsat Cafe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13609.ts
+#EXTINF:-1,PL:Polsat Film HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13610.ts
+#EXTINF:-1,PL:Polsat Play HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/13611.ts
+#EXTINF:-1,Sky Movies Modern Great HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17250.ts
+#EXTINF:-1,The Buddhist TV Live Stream
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/15089.ts
+#EXTINF:-1,SKY SPORTS NEWS HQ HD LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17348.ts
+#EXTINF:-1,BBC News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17615.ts
+#EXTINF:-1,UK - BBC 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17626.ts
+#EXTINF:-1,UK - BBC 1 NORTHERN IRELAND FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17625.ts
+#EXTINF:-1,UK - BBC 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17624.ts
+#EXTINF:-1,UK - BBC 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17623.ts
+#EXTINF:-1,UK - CHANNEL 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17622.ts
+#EXTINF:-1,UK - CHANNEL 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17621.ts
+#EXTINF:-1,UK - ITV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17619.ts
+#EXTINF:-1,UK - ITV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17618.ts
+#EXTINF:-1,UK - ITV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17617.ts
+#EXTINF:-1,UK - ITV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17616.ts
+#EXTINF:-1,UK:BBC 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17545.ts
+#EXTINF:-1,UK:BBC 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17548.ts
+#EXTINF:-1,UK:BBC One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17547.ts
+#EXTINF:-1,UK:BBC One Lon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17546.ts
+#EXTINF:-1,UK:BBC Two Eng
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17542.ts
+#EXTINF:-1,UK:BBC Two HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17541.ts
+#EXTINF:-1,UK:CBS Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17536.ts
+#EXTINF:-1,UK:CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17535.ts
+#EXTINF:-1,UK:Channel 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17553.ts
+#EXTINF:-1,UK:Channel 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17552.ts
+#EXTINF:-1,UK:Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17551.ts
+#EXTINF:-1,UK:Channel 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17550.ts
+#EXTINF:-1,UK:Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17557.ts
+#EXTINF:-1,UK:Eden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17613.ts
+#EXTINF:-1,UK:GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17599.ts
+#EXTINF:-1,UK:ITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17597.ts
+#EXTINF:-1,UK:ITV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17596.ts
+#EXTINF:-1,UK:Itv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17594.ts
+#EXTINF:-1,UK:ITV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17593.ts
+#EXTINF:-1,UK:ITV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17592.ts
+#EXTINF:-1,UK:ITV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17591.ts
+#EXTINF:-1,UK:Pick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17584.ts
+#EXTINF:-1,UK:Pick  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17611.ts
+#EXTINF:-1,UK:Pick TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17610.ts
+#EXTINF:-1,UK:S4C
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17582.ts
+#EXTINF:-1,UK:S4C HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17581.ts
+#EXTINF:-1,UK:Sky 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17579.ts
+#EXTINF:-1,UK:Sky 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17578.ts
+#EXTINF:-1,UK:Sky Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17577.ts
+#EXTINF:-1,UK:Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17576.ts
+#EXTINF:-1,UK:Sky Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17575.ts
+#EXTINF:-1,UK:Spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17574.ts
+#EXTINF:-1,UK:Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17614.ts
+#EXTINF:-1,UK:SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17608.ts
+#EXTINF:-1,UK:TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17570.ts
+#EXTINF:-1,UK:TLC  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17607.ts
+#EXTINF:-1,UK:TLC  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17606.ts
+#EXTINF:-1,UK:tru TV  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17605.ts
+#EXTINF:-1,UK:Watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17563.ts
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17689.ts
+#EXTINF:-1,Disney HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17703.ts
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17690.ts
+#EXTINF:-1,CBBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17688.ts
+#EXTINF:-1,Disney Chnl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17691.ts
+#EXTINF:-1,UK:Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17699.ts
+#EXTINF:-1,Tiny Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17694.ts
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17687.ts
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17686.ts
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17685.ts
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17684.ts
+#EXTINF:-1,Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/17683.ts
+#EXTINF:-1,Aaj Tak
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19805.ts
+#EXTINF:-1,ABP News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19804.ts
+#EXTINF:-1,And TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19803.ts
+#EXTINF:-1,And TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19802.ts
+#EXTINF:-1,B4U Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19800.ts
+#EXTINF:-1,B4U Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19799.ts
+#EXTINF:-1,B4U Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19798.ts
+#EXTINF:-1,B4U PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19797.ts
+#EXTINF:-1,BritAsia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19796.ts
+#EXTINF:-1,Colors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19795.ts
+#EXTINF:-1,Life OK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19793.ts
+#EXTINF:-1,Rishtey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19791.ts
+#EXTINF:-1,Sab TV (SET)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19790.ts
+#EXTINF:-1,SET Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19789.ts
+#EXTINF:-1,Sony Entertainment (SET)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19788.ts
+#EXTINF:-1,Star Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19787.ts
+#EXTINF:-1,Star Jalsha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19786.ts
+#EXTINF:-1,Star Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19785.ts
+#EXTINF:-1,Venus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19784.ts
+#EXTINF:-1,Zee Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19783.ts
+#EXTINF:-1,Zee Punjabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19782.ts
+#EXTINF:-1,Zee TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19781.ts
+#EXTINF:-1,Zing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19780.ts
+#EXTINF:-1,Channel AKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19813.ts
+#EXTINF:-1,Sky News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19812.ts
+#EXTINF:-1,Cnn News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/19814.ts
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20100.ts
+#EXTINF:-1,Heart TV UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20104.ts
+#EXTINF:-1,MTV Base HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20115.ts
+#EXTINF:-1,MTV Base UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20114.ts
+#EXTINF:-1,MTV Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20113.ts
+#EXTINF:-1,MTV Dance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20112.ts
+#EXTINF:-1,MTV Dance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20111.ts
+#EXTINF:-1,Mtv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20110.ts
+#EXTINF:-1,MTV Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20109.ts
+#EXTINF:-1,MTV Hits!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20108.ts
+#EXTINF:-1,MTV Music UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20116.ts
+#EXTINF:-1,MTV Rocks HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20107.ts
+#EXTINF:-1,MTV Rocks UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20106.ts
+#EXTINF:-1,STARZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20103.ts
+#EXTINF:-1,UK : MTV CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20105.ts
+#EXTINF:-1,UK : THE VAULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20101.ts
+#EXTINF:-1,UK : VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20102.ts
+#EXTINF:-1,VIP: BOXNATION 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20099.ts
+#EXTINF:-1,VIP: BT SPORTS 1 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20093.ts
+#EXTINF:-1,VIP: BT SPORTS 2 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20094.ts
+#EXTINF:-1,VIP: BT SPORTS 3 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20095.ts
+#EXTINF:-1,VIP: BT SPORTS ESPN HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20096.ts
+#EXTINF:-1,VIP: EUROSPORT 1 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20097.ts
+#EXTINF:-1,VIP: EUROSPORT 2 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20098.ts
+#EXTINF:-1,VIP: SKY SPORTS MAIN EVENT HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20085.ts
+#EXTINF:-1,VIP: SKY SPORTS CRICKET HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20086.ts
+#EXTINF:-1,VIP: SKY SPORTS ACTION HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20087.ts
+#EXTINF:-1,VIP: SKY SPORTS GOLF HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20088.ts
+#EXTINF:-1,VIP: SKY SPORTS PL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20089.ts
+#EXTINF:-1,VIP: SKY SPORTS F1 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20090.ts
+#EXTINF:-1,VIP: SKY SPORTS MIX HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20091.ts
+#EXTINF:-1,VIP: SKY SPORTS NEWS HQ HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20092.ts
+#EXTINF:-1,UK SPECIAL : SPIKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20176.ts
+#EXTINF:-1,UK SPECIAL: Yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20175.ts
+#EXTINF:-1,UK:  Sky Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20140.ts
+#EXTINF:-1,UK:  Sky Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20139.ts
+#EXTINF:-1,UK:  SKY MOVIES ACTION & Adventure HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20138.ts
+#EXTINF:-1,UK: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20173.ts
+#EXTINF:-1,UK: Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20172.ts
+#EXTINF:-1,UK: HBO Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20171.ts
+#EXTINF:-1,UK: HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20170.ts
+#EXTINF:-1,UK: ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20169.ts
+#EXTINF:-1,UK: Premiere Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20167.ts
+#EXTINF:-1,UK: SKY ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20137.ts
+#EXTINF:-1,UK: SKY Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20165.ts
+#EXTINF:-1,UK: Sky Atlantic HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20164.ts
+#EXTINF:-1,UK: Sky Cinema Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20136.ts
+#EXTINF:-1,UK: Sky Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20163.ts
+#EXTINF:-1,UK: Sky Movies Crime &Thriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20135.ts
+#EXTINF:-1,UK: Sky Movies Greats HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20133.ts
+#EXTINF:-1,UK: Sky Movies Modern Great HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20132.ts
+#EXTINF:-1,UK: SKY MOVIES PREMIERE   HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20131.ts
+#EXTINF:-1,UK: Sky One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20162.ts
+#EXTINF:-1,UK: SKY SELECT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20130.ts
+#EXTINF:-1,UK: Sky Sports News HQ.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20161.ts
+#EXTINF:-1,OSN:_Series_Mousalsalat_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20234.ts
+#EXTINF:-1,OSN::DEMAND-1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20233.ts
+#EXTINF:-1,OSN::DEMAND-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20232.ts
+#EXTINF:-1,OSN::DEMAND-3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20231.ts
+#EXTINF:-1,OSN::Movies-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20230.ts
+#EXTINF:-1,OSN::Movies-star-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20229.ts
+#EXTINF:-1,OSN::OFFICBOX2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20228.ts
+#EXTINF:-1,OSN:Animal_Planet-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20226.ts
+#EXTINF:-1,OSN:BOX_OFFICE_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20225.ts
+#EXTINF:-1,OSN:Cinema-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20224.ts
+#EXTINF:-1,OSN:Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20223.ts
+#EXTINF:-1,OSN:DEMAND-EXTRA-1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20222.ts
+#EXTINF:-1,OSN:DEMAND-EXTRA-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20221.ts
+#EXTINF:-1,OSN:Discovery_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20220.ts
+#EXTINF:-1,OSN:Discovery_History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20219.ts
+#EXTINF:-1,OSN:Discovery_Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20218.ts
+#EXTINF:-1,OSN:Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20217.ts
+#EXTINF:-1,OSN:Disney-xD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20216.ts
+#EXTINF:-1,OSN:E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20215.ts
+#EXTINF:-1,OSN:FIGHT-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20214.ts
+#EXTINF:-1,OSN:FineLivingHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20213.ts
+#EXTINF:-1,OSN:First_Comedy-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20212.ts
+#EXTINF:-1,OSN:FirstHBOHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20211.ts
+#EXTINF:-1,OSN:Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20210.ts
+#EXTINF:-1,OSN:Fox Family Movie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20209.ts
+#EXTINF:-1,OSN:Fox Movie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20208.ts
+#EXTINF:-1,OSN:Fox_Action_Movies-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20207.ts
+#EXTINF:-1,OSN:HISTORY-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20206.ts
+#EXTINF:-1,OSN:LIVE  Movies Action  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20205.ts
+#EXTINF:-1,OSN:LIVE  Movies HD 2h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20204.ts
+#EXTINF:-1,OSN:LIVE  MOVIESThriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20203.ts
+#EXTINF:-1,OSN:LIVE Discovery Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20202.ts
+#EXTINF:-1,OSN:MBC_Bollywood-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20201.ts
+#EXTINF:-1,OSN:MBC_Variety-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20200.ts
+#EXTINF:-1,OSN:Movie Drama 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20199.ts
+#EXTINF:-1,OSN:MOVIE_BOX_OFFICE_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20198.ts
+#EXTINF:-1,OSN:Movies _ActiOSN:2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20197.ts
+#EXTINF:-1,OSN:MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20196.ts
+#EXTINF:-1,OSN:MOVIES_BOX_OFFICE_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20195.ts
+#EXTINF:-1,OSN:Movies_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20194.ts
+#EXTINF:-1,OSN:Movies_Festival
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20193.ts
+#EXTINF:-1,OSN:Movies_First-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20192.ts
+#EXTINF:-1,OSN:Movies_First-HD-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20191.ts
+#EXTINF:-1,OSN:MOVIES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20177.ts
+#EXTINF:-1,OSN:Movies_Premiere-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20190.ts
+#EXTINF:-1,OSN:Movies_Premiere-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20189.ts
+#EXTINF:-1,OSN:MOVIESCOMEDY2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20188.ts
+#EXTINF:-1,OSN:NGC PEOPLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20187.ts
+#EXTINF:-1,OSN:OFFICBOX3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20227.ts
+#EXTINF:-1,OSN:Outdoor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20186.ts
+#EXTINF:-1,OSN:PPV WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20178.ts
+#EXTINF:-1,OSN:RT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20185.ts
+#EXTINF:-1,OSN:Star_Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20184.ts
+#EXTINF:-1,OSN:Star_Movies-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20183.ts
+#EXTINF:-1,OSN:Star_World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20182.ts
+#EXTINF:-1,OSN:SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20181.ts
+#EXTINF:-1,OSN:TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20180.ts
+#EXTINF:-1,OSN:VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20179.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 1 CRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20332.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 1 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20331.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 2 CRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20330.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 2 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20329.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 3 CRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20328.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 3 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20327.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 4 CRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20326.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 4 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20325.ts
+#EXTINF:-1,3PM EPL: ARENA SPORT 5 CRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20324.ts
+#EXTINF:-1,ARENA SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20349.ts
+#EXTINF:-1,ARENA SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20348.ts
+#EXTINF:-1,ARENA SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20347.ts
+#EXTINF:-1,ARENA SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20346.ts
+#EXTINF:-1,ARENA SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20345.ts
+#EXTINF:-1,FOX Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20359.ts
+#EXTINF:-1,FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20358.ts
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20357.ts
+#EXTINF:-1,NBC Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20356.ts
+#EXTINF:-1,NBC XTRA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20355.ts
+#EXTINF:-1,NBC XTRA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20354.ts
+#EXTINF:-1,NBC XTRA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20353.ts
+#EXTINF:-1,NBC XTRA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20352.ts
+#EXTINF:-1,NBC XTRA 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20351.ts
+#EXTINF:-1,TEN GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20344.ts
+#EXTINF:-1,TSN 1 (USA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20366.ts
+#EXTINF:-1,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20343.ts
+#EXTINF:-1,TSN 2 (USA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20365.ts
+#EXTINF:-1,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20342.ts
+#EXTINF:-1,TSN 3 (USA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20364.ts
+#EXTINF:-1,TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20341.ts
+#EXTINF:-1,TSN 4 (USA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20363.ts
+#EXTINF:-1,TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20340.ts
+#EXTINF:-1,TSN 5 (USA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20362.ts
+#EXTINF:-1,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20339.ts
+#EXTINF:-1,USA ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20361.ts
+#EXTINF:-1,USA ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20360.ts
+#EXTINF:-1,WIllow Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20350.ts
+#EXTINF:-1,WIlow Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20338.ts
+#EXTINF:-1,WWE HD (USA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20337.ts
+#EXTINF:-1,WWE Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/20336.ts
+#EXTINF:-1,CELTIC TV (LIVE ON MATCHDAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21056.ts
+#EXTINF:-1,3E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21071.ts
+#EXTINF:-1,RTE ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21070.ts
+#EXTINF:-1,RTE TWO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21069.ts
+#EXTINF:-1,TG4 IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21068.ts
+#EXTINF:-1,TV3 IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21067.ts
+#EXTINF:-1,UTV IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21066.ts
+#EXTINF:-1,RTE JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21072.ts
+#EXTINF:-1,Sky Sports News..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/21073.ts
+#EXTINF:-1,MAA ASHAPURA NEWS LIVE bhuj
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/16083.ts
+#EXTINF:-1,CELTIC FC TV(matchtime)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22124.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22086.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22085.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22084.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22083.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22082.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22081.ts
+#EXTINF:-1,USA: NBC EXTRA TIME 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22080.ts
+#EXTINF:-1,CHELSEA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22127.ts
+#EXTINF:-1,LFC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22126.ts
+#EXTINF:-1,UFC (24-7)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22128.ts
+#EXTINF:-1,RANGERS TV (LIVE ONLY ON MATCHDAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22749.ts
+#EXTINF:-1,ABU_DHABI_SPORTS_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22764.ts
+#EXTINF:-1,ABU_DHABI_SPORTS_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22763.ts
+#EXTINF:-1,ABU_DHABI_SPORTS_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22762.ts
+#EXTINF:-1,ABU_DHABI_SPORTS_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22761.ts
+#EXTINF:-1,ABU_DHABI_SPORTS_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22760.ts
+#EXTINF:-1,BEIN AMC MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22843.ts
+#EXTINF:-1,BEIN BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22842.ts
+#EXTINF:-1,BEIN BARAEEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22841.ts
+#EXTINF:-1,BEIN BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22802.ts
+#EXTINF:-1,BEIN BOX OFFICE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22840.ts
+#EXTINF:-1,BEIN BOX OFFICE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22839.ts
+#EXTINF:-1,BEIN BOX OFFICE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22838.ts
+#EXTINF:-1,BEIN DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22837.ts
+#EXTINF:-1,BEIN DREAM WORKS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22836.ts
+#EXTINF:-1,BEIN JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22835.ts
+#EXTINF:-1,BEIN MOVIES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22834.ts
+#EXTINF:-1,BEIN MOVIES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22833.ts
+#EXTINF:-1,BEIN MOVIES 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22832.ts
+#EXTINF:-1,BEIN MOVIES 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22831.ts
+#EXTINF:-1,BEIN SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22830.ts
+#EXTINF:-1,BOX OFFICE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22799.ts
+#EXTINF:-1,BOX OFFICE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22798.ts
+#EXTINF:-1,BOX OFFICE 3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22801.ts
+#EXTINF:-1,BOX OFFICE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22797.ts
+#EXTINF:-1,BOX OFFICE HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22800.ts
+#EXTINF:-1,EPL 1 ( MATCH TIME )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22779.ts
+#EXTINF:-1,EPL 2 ( MATCH TIME )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22778.ts
+#EXTINF:-1,EPL 3 ( MATCH TIME )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22777.ts
+#EXTINF:-1,EPL 4 ( MATCH TIME )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22776.ts
+#EXTINF:-1,EPL 5 ( MATCH TIME )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22775.ts
+#EXTINF:-1,EPL 6 ( MATCH TIME )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22774.ts
+#EXTINF:-1,EPL 7 ( MATCH TIME )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22773.ts
+#EXTINF:-1,EPL 8 ( MATCH TIME )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22772.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22790.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22789.ts
+#EXTINF:-1,OSN: ABU DHABI SPORT4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22788.ts
+#EXTINF:-1,OSN: ALKASS_SPORT_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22787.ts
+#EXTINF:-1,OSN: ALKASS_SPORT_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22786.ts
+#EXTINF:-1,OSN: ALKASS_SPORT_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22785.ts
+#EXTINF:-1,OSN: Fight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22784.ts
+#EXTINF:-1,OSN: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22783.ts
+#EXTINF:-1,OSN: MBC PRO SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22782.ts
+#EXTINF:-1,OSN: MBC PRO SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22781.ts
+#EXTINF:-1,OSN: MBC PRO SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22780.ts
+#EXTINF:-1,SEC NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22756.ts
+#EXTINF:-1,SETANTA_SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22755.ts
+#EXTINF:-1,SFR_SPORT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22754.ts
+#EXTINF:-1,SFR_SPORT_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22753.ts
+#EXTINF:-1,SFR_SPORT_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22752.ts
+#EXTINF:-1,SFR_SPORT_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22751.ts
+#EXTINF:-1,SFR_SPORT_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22750.ts
+#EXTINF:-1,SP:ABU DHABI SPORTS 1 (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22796.ts
+#EXTINF:-1,SP:ABU DHABI SPORTS 2 (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22795.ts
+#EXTINF:-1,SP:ABU DHABI SPORTS 3 (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22794.ts
+#EXTINF:-1,SP:ABU DHABI SPORTS 4 (AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22793.ts
+#EXTINF:-1,SP:DIGI SPORT 3 (RO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22792.ts
+#EXTINF:-1,SP:DIGI SPORT 4 (RO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22791.ts
+#EXTINF:-1,SportTV 1 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22771.ts
+#EXTINF:-1,SportTV 2 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22770.ts
+#EXTINF:-1,SportTV 3 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22769.ts
+#EXTINF:-1,SportTV 4 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22768.ts
+#EXTINF:-1,SportTV 5 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22767.ts
+#EXTINF:-1,USA:AFN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22766.ts
+#EXTINF:-1,USA:AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/22765.ts
+#EXTINF:-1,.UK_=_Absolute_00s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23322.ts
+#EXTINF:-1,.UK_=_Absolute_60s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23318.ts
+#EXTINF:-1,.UK_=_Absolute_70s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23319.ts
+#EXTINF:-1,.UK_=_Absolute_80s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23320.ts
+#EXTINF:-1,.UK_=_Absolute_90s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23321.ts
+#EXTINF:-1,.UK_=_Absolute_Classic_Rock
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23336.ts
+#EXTINF:-1,.UK_=_Absolute_Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23296.ts
+#EXTINF:-1,.UK_=_Bang_Radio_103.6FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23287.ts
+#EXTINF:-1,.UK_=_BBC_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23333.ts
+#EXTINF:-1,.UK_=_BBC_1_Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23327.ts
+#EXTINF:-1,.UK_=_BBC_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23332.ts
+#EXTINF:-1,.UK_=_BBC_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23331.ts
+#EXTINF:-1,.UK_=_BBC_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23330.ts
+#EXTINF:-1,.UK_=_BBC_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23329.ts
+#EXTINF:-1,.UK_=_BBC_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23328.ts
+#EXTINF:-1,.UK_=_BBC_Scotland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23323.ts
+#EXTINF:-1,.UK_=_BBC_Wales
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23324.ts
+#EXTINF:-1,.UK_=_BBC_World_Service
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23291.ts
+#EXTINF:-1,.UK_=_Bridge_106.3_FM_Wales
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23285.ts
+#EXTINF:-1,.UK_=_Capital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23317.ts
+#EXTINF:-1,.UK_=_Capital_Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23288.ts
+#EXTINF:-1,.UK_=_Classic_FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23289.ts
+#EXTINF:-1,.UK_=_Cool
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23307.ts
+#EXTINF:-1,.UK_=_Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23302.ts
+#EXTINF:-1,.UK_=_Heart
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23314.ts
+#EXTINF:-1,.UK_=_Jazz_FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23290.ts
+#EXTINF:-1,.UK_=_Kiss
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23313.ts
+#EXTINF:-1,.UK_=_Kisstory
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23334.ts
+#EXTINF:-1,.UK_=_LBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23312.ts
+#EXTINF:-1,.UK_=_Magic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23311.ts
+#EXTINF:-1,.UK_=_Manx_Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23293.ts
+#EXTINF:-1,.UK_=_Nation_Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23301.ts
+#EXTINF:-1,.UK_=_Planet_Rock
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23292.ts
+#EXTINF:-1,.UK_=_Smooth
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23310.ts
+#EXTINF:-1,.UK_=_Sunrise_Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23286.ts
+#EXTINF:-1,.UK_=_TalkSport.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23309.ts
+#EXTINF:-1,.UK_=_The_Arrow_All_Rock
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23295.ts
+#EXTINF:-1,.UK_=_The_Breeze_FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23294.ts
+#EXTINF:-1,.UK_=_The_Wave_96.4_FM_Wales
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23284.ts
+#EXTINF:-1,.UK_=_Virgin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/23308.ts
+#EXTINF:-1,E4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27333.ts
+#EXTINF:-1,Film 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27334.ts
+#EXTINF:-1,PAK IND SET MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27369.ts
+#EXTINF:-1,PAK-2 ARY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27373.ts
+#EXTINF:-1,PAK-2 EXPRESS ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27381.ts
+#EXTINF:-1,PAK-2 HUM PK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27386.ts
+#EXTINF:-1,PAK-2 HUM TV EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27389.ts
+#EXTINF:-1,PAK-2 NEO NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27372.ts
+#EXTINF:-1,PAK-2 URDU1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27384.ts
+#EXTINF:-1,PAK-2: AAJ NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27374.ts
+#EXTINF:-1,PAK-2: ARY DIGITAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27385.ts
+#EXTINF:-1,PAK-O- BOL-NEWS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27378.ts
+#EXTINF:-1,PAK-O-AAJ ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27383.ts
+#EXTINF:-1,PAK-O-DIN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27376.ts
+#EXTINF:-1,PAK-O-GEO SUPER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27368.ts
+#EXTINF:-1,PAK-O-NEW NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27375.ts
+#EXTINF:-1,PAK-O-PTV SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27367.ts
+#EXTINF:-1,PAK-O-ZAIQA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27380.ts
+#EXTINF:-1,PAK-O: ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27382.ts
+#EXTINF:-1,PAK-O: LAHORE NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27377.ts
+#EXTINF:-1,PAK-O:HUM WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27387.ts
+#EXTINF:-1,pk 9X JALWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27366.ts
+#EXTINF:-1,pk ary qtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27448.ts
+#EXTINF:-1,pk ary zauq
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27365.ts
+#EXTINF:-1,pk Ary Ziaqa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27364.ts
+#EXTINF:-1,pk ARY ZINDAGI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27363.ts
+#EXTINF:-1,pk avtkhyber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27362.ts
+#EXTINF:-1,pk CAPITAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27361.ts
+#EXTINF:-1,PK CHANNEL 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27360.ts
+#EXTINF:-1,pk city42
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27359.ts
+#EXTINF:-1,pk dawn news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27358.ts
+#EXTINF:-1,pk express news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27357.ts
+#EXTINF:-1,pk geo entt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27356.ts
+#EXTINF:-1,pk geo kahani
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27355.ts
+#EXTINF:-1,pk geo news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27354.ts
+#EXTINF:-1,pk GEO TEZZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27353.ts
+#EXTINF:-1,pk Hum masala
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27352.ts
+#EXTINF:-1,pk Hum Stars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27351.ts
+#EXTINF:-1,pk HUM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27350.ts
+#EXTINF:-1,pk KHYBER NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27349.ts
+#EXTINF:-1,pk madani
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27447.ts
+#EXTINF:-1,pk madina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27446.ts
+#EXTINF:-1,pk METRO ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27348.ts
+#EXTINF:-1,pk NEWS 92
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27347.ts
+#EXTINF:-1,pk NEWS ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27346.ts
+#EXTINF:-1,pk paigham
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27345.ts
+#EXTINF:-1,pk phasto 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27344.ts
+#EXTINF:-1,pk ptv home
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27343.ts
+#EXTINF:-1,pk ptv world
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27342.ts
+#EXTINF:-1,PK ROZE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27341.ts
+#EXTINF:-1,pk sama tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27340.ts
+#EXTINF:-1,pk such tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27339.ts
+#EXTINF:-1,pk tv one global
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27338.ts
+#EXTINF:-1,pk URDU 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27337.ts
+#EXTINF:-1,pk waqt news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27336.ts
+#EXTINF:-1,pk zandagi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27335.ts
+#EXTINF:-1,PK-2: 92 NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27379.ts
+#EXTINF:-1,pn-*-  HUM TV WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27398.ts
+#EXTINF:-1,PN-*- 92 NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27445.ts
+#EXTINF:-1,PN-*- AAJ ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27415.ts
+#EXTINF:-1,PN-*- AAJ NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27435.ts
+#EXTINF:-1,PN-*- ABB TAK NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27440.ts
+#EXTINF:-1,PN-*- APLUS ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27411.ts
+#EXTINF:-1,PN-*- APNA CHANNELS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27414.ts
+#EXTINF:-1,PN-*- ARY DIGITAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27404.ts
+#EXTINF:-1,PN-*- ARY MUSIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27403.ts
+#EXTINF:-1,PN-*- ARY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27425.ts
+#EXTINF:-1,PN-*- ARY ZINDAGI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27419.ts
+#EXTINF:-1,PN-*- ATV KHYBER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27402.ts
+#EXTINF:-1,PN-*- AVT KHYBER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27401.ts
+#EXTINF:-1,PN-*- BOL TV URDU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27433.ts
+#EXTINF:-1,PN-*- CAPITAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27432.ts
+#EXTINF:-1,PN-*- CHANNEL 5 NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27431.ts
+#EXTINF:-1,PN-*- CHANNELS 24 NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27430.ts
+#EXTINF:-1,PN-*- CITY 42
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27429.ts
+#EXTINF:-1,PN-*- DAWN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27428.ts
+#EXTINF:-1,PN-*- DIN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27427.ts
+#EXTINF:-1,PN-*- DUNYA TV.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27420.ts
+#EXTINF:-1,PN-*- EXPRESS ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27413.ts
+#EXTINF:-1,PN-*- EXPRESS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27426.ts
+#EXTINF:-1,PN-*- FILMZIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27418.ts
+#EXTINF:-1,PN-*- GEO ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27412.ts
+#EXTINF:-1,PN-*- GEO KAHANI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27417.ts
+#EXTINF:-1,PN-*- GEO NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27442.ts
+#EXTINF:-1,PN-*- GEO TEZZZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27441.ts
+#EXTINF:-1,PN-*- HUM SITARAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27416.ts
+#EXTINF:-1,PN-*- HUM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27410.ts
+#EXTINF:-1,PN-*- JAAG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27397.ts
+#EXTINF:-1,PN-*- KAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27396.ts
+#EXTINF:-1,PN-*- KHYBER NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27436.ts
+#EXTINF:-1,PN-*- KOHENOOR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27395.ts
+#EXTINF:-1,PN-*- LAHORE NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27424.ts
+#EXTINF:-1,PN-*- MASALA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27409.ts
+#EXTINF:-1,PN-*- MEHRAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27423.ts
+#EXTINF:-1,PN-*- METRO ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27444.ts
+#EXTINF:-1,PN-*- NEWS ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27443.ts
+#EXTINF:-1,PN-*- PAK NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27422.ts
+#EXTINF:-1,PN-*- PASHTOO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27408.ts
+#EXTINF:-1,PN-*- PLAY ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27394.ts
+#EXTINF:-1,PN-*- PTV HOME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27393.ts
+#EXTINF:-1,PN-*- PTV NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27421.ts
+#EXTINF:-1,PN-*- PTV WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27392.ts
+#EXTINF:-1,PN-*- ROZE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27407.ts
+#EXTINF:-1,PN-*- SAMA NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27439.ts
+#EXTINF:-1,PN-*- SEE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27391.ts
+#EXTINF:-1,PN-*- STAR MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27390.ts
+#EXTINF:-1,PN-*- SUCH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27438.ts
+#EXTINF:-1,PN-*- TIME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27406.ts
+#EXTINF:-1,PN-*- TV ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27434.ts
+#EXTINF:-1,PN-*- URDU 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27405.ts
+#EXTINF:-1,PN-*- WAQT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27437.ts
+#EXTINF:-1,PN-*- ZAIQA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27400.ts
+#EXTINF:-1,PN-*- ZAUQ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27399.ts
+#EXTINF:-1,UK-Channel 44 AF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27370.ts
+#EXTINF:-1,UK-GEO TEEZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27371.ts
+#EXTINF:-1,LOCAL  ARY ZINDGI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27586.ts
+#EXTINF:-1,LOCAL_IND_ARY ZINDAGI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27585.ts
+#EXTINF:-1,LOCAL-AAJ NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27551.ts
+#EXTINF:-1,LOCAL-ARY DIGITAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27550.ts
+#EXTINF:-1,LOCAL-ARY MUSIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27549.ts
+#EXTINF:-1,LOCAL-EXPRSS ENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27548.ts
+#EXTINF:-1,LOCAL-GEO NEWS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27552.ts
+#EXTINF:-1,LOCAL-PAK GEO NEWS UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27588.ts
+#EXTINF:-1,LOCAL-PAK-PTV HOME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27587.ts
+#EXTINF:-1,LOCAL-UK A PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27584.ts
+#EXTINF:-1,LOCAL-UK DUNYA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27582.ts
+#EXTINF:-1,LOCAL-UK GEO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27388.ts
+#EXTINF:-1,LOCAL-UK SAMMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27581.ts
+#EXTINF:-1,PAK_ARY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27580.ts
+#EXTINF:-1,PAK_EXPRESS ENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27579.ts
+#EXTINF:-1,PAK_GEO SUPER S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27578.ts
+#EXTINF:-1,PAK_ZAIQA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27577.ts
+#EXTINF:-1,PAK- TV ONE NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27576.ts
+#EXTINF:-1,PAK-2 GEO ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27575.ts
+#EXTINF:-1,PAK-A  GEO TEZZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27574.ts
+#EXTINF:-1,PAK-A  HUM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27573.ts
+#EXTINF:-1,PAK-A  NEWS ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27572.ts
+#EXTINF:-1,PAK-A 92 NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27571.ts
+#EXTINF:-1,PAK-A 9X JALWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27570.ts
+#EXTINF:-1,PAK-A AAJ NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27569.ts
+#EXTINF:-1,PAK-A APLUS ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27568.ts
+#EXTINF:-1,PAK-A ARY ZAUQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27567.ts
+#EXTINF:-1,PAK-A ARY ZIAQA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27566.ts
+#EXTINF:-1,PAK-A ARY ZINDAGI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27565.ts
+#EXTINF:-1,PAK-A AVT KHYBER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27564.ts
+#EXTINF:-1,PAK-A AWAZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27563.ts
+#EXTINF:-1,PAK-A Bol News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27562.ts
+#EXTINF:-1,PAK-A CAPITAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27561.ts
+#EXTINF:-1,PAK-A CHANNEL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27560.ts
+#EXTINF:-1,PAK-A FILMAZIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27559.ts
+#EXTINF:-1,PAK-A filmzia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27558.ts
+#EXTINF:-1,PAK-A GEO ENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27557.ts
+#EXTINF:-1,PAK-A GEO KAHANI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27556.ts
+#EXTINF:-1,PAK-A ptv home
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27555.ts
+#EXTINF:-1,PAK-A PTV NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27554.ts
+#EXTINF:-1,PAK-A sama tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27553.ts
+#EXTINF:-1,UK-PTV PRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/27583.ts
+#EXTINF:-1,AR1:Bein Sports 1***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29367.ts
+#EXTINF:-1,AR1:Bein Sports 10***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29366.ts
+#EXTINF:-1,AR1:Bein Sports 12***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29365.ts
+#EXTINF:-1,AR1:Bein Sports 2***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29364.ts
+#EXTINF:-1,AR1:Bein Sports 3***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29363.ts
+#EXTINF:-1,AR1:Bein Sports 4***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29362.ts
+#EXTINF:-1,AR1:Bein Sports 5***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29361.ts
+#EXTINF:-1,AR1:Bein Sports 6***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29360.ts
+#EXTINF:-1,AR1:Bein Sports 7***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29359.ts
+#EXTINF:-1,AR1:Bein Sports 8***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29358.ts
+#EXTINF:-1,AR1:Bein Sports 9***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29357.ts
+#EXTINF:-1,BeIN Sports 10 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29356.ts
+#EXTINF:-1,BeIN Sports 11 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29355.ts
+#EXTINF:-1,Bein Sports 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29354.ts
+#EXTINF:-1,BeIN Sports 2 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29353.ts
+#EXTINF:-1,BeIN Sports 3 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29352.ts
+#EXTINF:-1,BeIN Sports 4 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29351.ts
+#EXTINF:-1,BeIN Sports 5 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29350.ts
+#EXTINF:-1,BeIN Sports 6 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29349.ts
+#EXTINF:-1,BeIN Sports 7 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29348.ts
+#EXTINF:-1,BeIN Sports 8 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29347.ts
+#EXTINF:-1,BeIN Sports 9 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29346.ts
+#EXTINF:-1,CELTIC FC TV ( LIVE ON MATCHES )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29345.ts
+#EXTINF:-1,Fr: BeIN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29344.ts
+#EXTINF:-1,Fr: BeIN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29343.ts
+#EXTINF:-1,Fr: BeIN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29342.ts
+#EXTINF:-1,FR: Bein sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29341.ts
+#EXTINF:-1,FR: Bein sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29340.ts
+#EXTINF:-1,FR: bein sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29339.ts
+#EXTINF:-1,FR: Bein Sport Max 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29338.ts
+#EXTINF:-1,FR: BEIN SPORTS 01HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29337.ts
+#EXTINF:-1,FR: BEIN SPORTS 02HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29336.ts
+#EXTINF:-1,FR: BEIN SPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29335.ts
+#EXTINF:-1,FR: Bein Sports max 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29334.ts
+#EXTINF:-1,FR: Bein Sports max 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29333.ts
+#EXTINF:-1,FR: Bein Sports max 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29332.ts
+#EXTINF:-1,FR: Bein Sports max 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29331.ts
+#EXTINF:-1,FR: Bein Sports max 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29330.ts
+#EXTINF:-1,UK123:beIN_MAX_3_HD_(MATCH_TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29327.ts
+#EXTINF:-1,UK123:beIN_Sports_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29326.ts
+#EXTINF:-1,UK123:beIN_SPORTS_10_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29325.ts
+#EXTINF:-1,UK123:beIN_SPORTS_11_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29324.ts
+#EXTINF:-1,UK123:beIN_SPORTS_12_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29323.ts
+#EXTINF:-1,UK123:beIN_Sports_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29322.ts
+#EXTINF:-1,UK123:beIN_Sports_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29321.ts
+#EXTINF:-1,UK123:beIN_SPORTS_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29320.ts
+#EXTINF:-1,UK123:beIN_SPORTS_5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29319.ts
+#EXTINF:-1,UK123:beIN_SPORTS_6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29318.ts
+#EXTINF:-1,UK123:beIN_SPORTS_7_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29317.ts
+#EXTINF:-1,UK123:beIN_SPORTS_8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29316.ts
+#EXTINF:-1,UK123:beIN_SPORTS_9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29315.ts
+#EXTINF:-1,UK123:beIN_Sports_ES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29314.ts
+#EXTINF:-1,UK123:beIN_Sports_LIGA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29313.ts
+#EXTINF:-1,UK123:beIN_Sports_Max_10_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29312.ts
+#EXTINF:-1,UK123:beIN_Sports_max_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29311.ts
+#EXTINF:-1,UK123:beIN_Sports_max_5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29310.ts
+#EXTINF:-1,UK123:beIN_Sports_max_6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29309.ts
+#EXTINF:-1,UK123:beIN_Sports_max_7_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29308.ts
+#EXTINF:-1,UK123:beIN_Sports_max_8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29307.ts
+#EXTINF:-1,UK123:beIN_Sports_max_9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29306.ts
+#EXTINF:-1,UK123:beIN_SPORTS_News_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29305.ts
+#EXTINF:-1,UK123:beIN_Sports_USA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29304.ts
+#EXTINF:-1,UK123:beINSPORT_1_HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29303.ts
+#EXTINF:-1,UK123:beINSPORT_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29302.ts
+#EXTINF:-1,UK123:beINSPORT_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29301.ts
+#EXTINF:-1,UK123:beINSPORT_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29300.ts
+#EXTINF:-1,UK123:beIN_MAX_1_HD_(MATCH_TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29329.ts
+#EXTINF:-1,UK123:beIN_MAX_2_HD_(MATCH_TIME)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29328.ts
+#EXTINF:-1,IN-O: B4U MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29473.ts
+#EXTINF:-1,IN-O: LIFE OK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29472.ts
+#EXTINF:-1,IN-O: SONY ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29471.ts
+#EXTINF:-1,IN-O: SONY MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29470.ts
+#EXTINF:-1,IND LOCAL  IND LOCAL STAR_PLUS_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29427.ts
+#EXTINF:-1,IND LOCAL Movies_Now_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29443.ts
+#EXTINF:-1,IND LOCAL Rishtey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29426.ts
+#EXTINF:-1,IND LOCAL Six_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29442.ts
+#EXTINF:-1,IND LOCAL Sony_ESPN_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29441.ts
+#EXTINF:-1,IND LOCAL Sony_Max_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29440.ts
+#EXTINF:-1,IND LOCAL Sony_Pix_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29439.ts
+#EXTINF:-1,IND LOCAL Sony_SAB_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29438.ts
+#EXTINF:-1,IND LOCAL Sony_Six_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29437.ts
+#EXTINF:-1,IND LOCAL STAR GOLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29430.ts
+#EXTINF:-1,IND LOCAL Star_Sports_Select_FHD_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29425.ts
+#EXTINF:-1,IND LOCAL Star_Vijay_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29429.ts
+#EXTINF:-1,IND LOCAL Sun_TV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29428.ts
+#EXTINF:-1,IND LOCAL Ten_1_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29436.ts
+#EXTINF:-1,IND LOCAL Ten_2_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29435.ts
+#EXTINF:-1,IND LOCAL Ten_3_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29434.ts
+#EXTINF:-1,IND LOCAL Ten_GOLF_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29433.ts
+#EXTINF:-1,IND LOCAL Zee_Cinema_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29432.ts
+#EXTINF:-1,IND LOCAL Zee_TV_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29431.ts
+#EXTINF:-1,LOCAL IND COLOR GUJRATHI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29469.ts
+#EXTINF:-1,LOCAL IND SAB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29468.ts
+#EXTINF:-1,LOCAL IND SONY SIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29467.ts
+#EXTINF:-1,LOCAL IND SONY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29466.ts
+#EXTINF:-1,LOCAL IND STAR GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29465.ts
+#EXTINF:-1,LOCAL IND STAR MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29464.ts
+#EXTINF:-1,LOCAL IND STAR PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29463.ts
+#EXTINF:-1,LOCAL IND STAR SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29462.ts
+#EXTINF:-1,LOCAL IND STAR SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29461.ts
+#EXTINF:-1,LOCAL IND TEN CRICKETS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29460.ts
+#EXTINF:-1,LOCAL IND ZEE BANGLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29459.ts
+#EXTINF:-1,LOCAL IND ZEE CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29458.ts
+#EXTINF:-1,LOCAL IND ZEE CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29457.ts
+#EXTINF:-1,LOCAL IND ZEE TELGU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29456.ts
+#EXTINF:-1,LOCAL IND ZEE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29455.ts
+#EXTINF:-1,LOCAL-IND_COLOR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29454.ts
+#EXTINF:-1,OWN-COLORTV-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29453.ts
+#EXTINF:-1,OWN-PIC-MOIVE-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29452.ts
+#EXTINF:-1,OWN-SONY-MAX-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29451.ts
+#EXTINF:-1,OWN-SONY-SIX-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29450.ts
+#EXTINF:-1,OWN-SONYTV-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29449.ts
+#EXTINF:-1,OWN-STAR-SELECT1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29448.ts
+#EXTINF:-1,OWN-STAR-SELECT2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29447.ts
+#EXTINF:-1,OWN-STARPLUS-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29446.ts
+#EXTINF:-1,OWN-ZEE-CINEMA-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29445.ts
+#EXTINF:-1,OWN-ZEETV-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.myeasytv.xyz:8000/live/100/100/29444.ts
