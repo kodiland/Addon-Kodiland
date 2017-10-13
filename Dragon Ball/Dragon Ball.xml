@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
+
 <item>
-<title>Dragon Ball Super</title>
+<title>[COLOR white]Dragon Ball[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/kodiland/Addon-Kodiland/master/Dragon%20Ball/Dragon%20Ball%20Super/Dragon%20Ball%20Super.xml</externallink>
+<externallink></externallink>
 </item>
- 
+
 <item>
-<title>Dragon Ball Z</title>
+<title>[COLOR red]Dragon Ball Z[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -17,17 +17,9 @@
 </item>
  
 <item>
-<title></title>
+<title>[COLOR blue]Dragon Ball Super[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
-</item>
- 
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/kodiland/Addon-Kodiland/master/Dragon%20Ball/Dragon%20Ball%20Super/Dragon%20Ball%20Super.xml</externallink>
 </item>

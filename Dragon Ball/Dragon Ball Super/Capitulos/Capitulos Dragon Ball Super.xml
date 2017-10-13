@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>TEMPORADA 1</title>
+<title>[COLOR blue]Temporada 1[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,7 +9,31 @@
 </item>
  
 <item>
-<title></title>
+<title>[COLOR blue]Temporada 2[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue]Temporada 3[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue]Temporada 4[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR blue]Temporada 5[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>

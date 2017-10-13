@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Peliculas Dragon Ball Super</title>
+<title>[COLOR blue]Peliculas Dragon Ball Super[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,25 +9,9 @@
 </item>
  
 <item>
-<title>Capitulos Dragon Ball Super</title>
+<title>[COLOR blue]Capitulos Dragon Ball Super[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/kodiland/Addon-Kodiland/master/Dragon%20Ball/Dragon%20Ball%20Super/Capitulos/Capitulos%20Dragon%20Ball%20Super.xml</externallink>
-</item>
- 
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
- 
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
 </item>
