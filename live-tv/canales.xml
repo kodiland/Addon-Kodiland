@@ -421,7 +421,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vercanalestv.com/tv/nacional
 <item>
 <parentalblock>false</parentalblock>
 <title>[COLOR gold]Bein Sport[/COLOR] </title>
-<parentalblock>true</parentalblock>
+<parentalblock>false</parentalblock>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -435,7 +435,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vercanalestv.com/tv/nacional
 <item>
 <parentalblock>false</parentalblock>
 <title>[COLOR gold]Gol TV[/COLOR] </title>
-<parentalblock>true</parentalblock>
+<parentalblock>false</parentalblock>
 <link>$doregex[get-id]|Referer=http://verdirectotv.com/tv/digitales/plus-series.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
 <name>get-id</name>
