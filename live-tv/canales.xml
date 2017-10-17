@@ -35,6 +35,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://vercanalestv.com/tv/nacional
 <thumbnail>http://latelete.tv/img/tve1.png</thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>[COLOR yellow]La 2[/COLOR]</title>
 <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embedn.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
