@@ -9,9 +9,17 @@
 </item>
  
 <item>
-<title>[COLOR orange]TV TDT[/COLOR]</title>
+<title>[COLOR orange]TV 1MOS[/COLOR]</title>
 <link>http://Ignoreme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/kodiland/Addon-Kodiland/master/live-tv/canales.xml</externallink>
 </item> 
+
+<item>
+<title>[COLOR orange]TV 2KOD[/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/kodiland/Addon-Kodiland/master/live-tv/TODOS%20LOS%20CANALES.XML</externallink>
+</item>
