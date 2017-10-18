@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR  lime] [B] KODILAND TV ( ATUALIZADO 21/04/2017) [/B][/COLOR]</title>
+<title>[COLOR  lime] [B] KODILAND TV ( ATUALIZADO 18/10/2017) [/B][/COLOR]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -9,6 +9,12 @@
 
 <items>
 
+<item>
+		<title>[COLOR  lime]• [/COLOR][COLOR red]#0[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=pluscero&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/movistar0</referer>
+	</item>
+	
 <item>
 <title>[UPPERCASE][COLOR  lime]• [/COLOR][COLOR red]MOVISTAR ESTRENOS[/UPPERCASE][/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
@@ -176,7 +182,8 @@
 <page>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
-<thumbnail>https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png</thumbnail>   </item>
+<thumbnail>https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png</thumbnail>   
+</item>
 	
 	
 	<item>
@@ -184,6 +191,12 @@
 		<sportsdevil>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397</sportsdevil>
 		<referer>http://telefivegb.com/tv-spain/ver-canal-movistar-series-xtra-online-gratis-vivo/</referer>	
 		<thumbnail>https://www.andorratelecom.ad/documents/33347/112493/movistar+series+xtra-01.png</thumbnail>
+	</item>
+	
+	<item>
+		<title>[COLOR  lime]• [/COLOR][COLOR red]MOVISTAR SERIES XTRA[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=seriesxtra&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>	
 	</item>
 
 	<item>
@@ -345,7 +358,30 @@
 		<thumbnail>https://lh4.googleusercontent.com/-ED3k8Zh1sNc/UZFL1fhRKrI/AAAAAAAAAZc/zyDYSVz4tQE/w408-h306-p-o/c13hd.gif </thumbnail>
 		
 	</item>
+	
+	<item>
+		<title>[COLOR  lime]• [/COLOR][COLOR red]MTV[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embedn.php?file=mtvesp&width=650&height=397</sportsdevil>
+		<referer>http://telefivegb.com/canales/MUSICA/mtv</referer>
+	</item>
 
+	<item>
+		<title>[COLOR  lime]• [/COLOR][COLOR red]COSMO[/COLOR]</title>
+		<sportsdevil>http://tumarcador.xyz/verdirectotv/15</sportsdevil>
+		<referer>http://verdirectotv.com/tv/nacionales2/cosmo.html</referer>
+	</item>
+	
+	<item>
+		<title>[COLOR  lime]• [/COLOR][COLOR red]VIAJAR[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=viajar&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/documental/viajar</referer>
+	</item>
+	
+	<item>
+		<title>[COLOR  lime]• [/COLOR][COLOR red]DECASA[/COLOR]</title>
+		<sportsdevil>http://livesports.pw/embed.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/documental/casa</referer>
+	</item>
 	
 
 	
@@ -659,15 +695,29 @@
 		<thumbnail>https://lh3.googleusercontent.com/-ta6mEz3Qcy0/V8n3xWTtHII/AAAAAAAAAc4/97Xl94chUY4_t1n8xuiVj8TWLF14ZfbfACEw/h120/movistar-golf.png</thumbnail>
 	</item>
 	
-	item>
+	<item>
 		<title>[COLOR  lime]• [/COLOR][COLOR red]LA LIGA TV[/COLOR]</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=barliga&width=650&height=397</sportsdevil>
 		<referer>http://verplusonline.com/laligatv/</referer>
 		<thumbnail>http://i65.tinypic.com/dgm78k.jpg</thumbnail>
 	</item>
+	
+	<item>
+		<title>[COLOR  lime]• [/COLOR][COLOR red]LA LIGA TV[/COLOR]</title>
+		<link>$doregex[get_id]|User-Agent=iPad</link>
+		<regex>
+			<name>get_id</name>
+			<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+			<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+			<referer>http://www.liveonlinetv247.info/</referer>
+			<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+		</regex>
+	</item>
+	
+	
 
 	
-item>
+<item>
 <title>[UPPERCASE][COLOR  lime]• [/COLOR][COLOR red]1.2MOVISTAR GOLF[/UPPERCASE][/COLOR]</title>
 <link>$doregex[GetPageUrl]Referer=http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html;amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
 <regex>
@@ -680,7 +730,7 @@ item>
 </item>
 	   
 	   
-item>
+<item>
 <title>[COLOR  lime]• [/COLOR][COLOR red]MOVISTAR GOLF[/COLOR]</title>
 <link>$doregex[get_id]|User-Agent=iPad</link>
 <regex>
@@ -785,6 +835,37 @@ item>
 <referer>http://www.vercanalestv.com/ver-fdf-en-directo-gratis-on-line-24-horas-en-vivo/</referer>
 		<thumbnail>http://cinestrenostv.tv/img/fdf.png</thumbnail>
 <fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR  lime]•  [/COLOR][COLOR red]TEN[/COLOR]</title>
+		<link>http://cdn5.elitegol.xyz/verliga/33/index.m3u8</link>
+	</item>
+	
+	<item>
+		<title>[COLOR  lime]•  [/COLOR][COLOR red]BE MAD[/COLOR]</title>
+		<link>http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8</link>
+	</item>
+	
+	<item>
+		<title>[COLOR  lime]•  [/COLOR][COLOR red]CLAN TVE[/COLOR]</title>
+		<link>http://edge15.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8</link>
+	</item>
+	
+	<item>
+		<title>[COLOR  lime]•  [/COLOR][COLOR red]DISNEY XD[/COLOR]</title>
+		<link>$doregex[extrae-canal]</link>
+			<regex>
+				<name>extrae-canal</name>
+				<expres>source: '(.*?)'</expres>
+				<page></page>
+				<referer>http://vercanalestv.com/tv/documentales/canal-bio.html</referer>
+			</regex>
+	</item>
+	
+	<item>
+		<title>[COLOR  lime]•  [/COLOR][COLOR red]NICK JR[/COLOR]</title>
+		<link>http://edge15.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8 </link>
 	</item>
 	
 	<item>
